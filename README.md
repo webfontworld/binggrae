@@ -2,8 +2,8 @@
 
 <pre>
 @font-face {
-    font-family: 'BCcard';
-    font-weight: 400;
+    font-family: 'Binggrae';
+    font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae.eot?#iefix') format('embedded-opentype'),
