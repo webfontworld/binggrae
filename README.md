@@ -50,7 +50,7 @@
     font-display: swap;
 } 
 @font-face {
-    font-family: 'Binggrae';
+    font-family: 'Binggrae2';
     font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae2Bold.eot');
