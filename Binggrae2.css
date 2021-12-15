@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Binggrae2';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae2Regular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae2Regular.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae2Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae2Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae2Regular.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'Binggrae2';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae2Bold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae2Bold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae2Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae2Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/binggrae/Binggrae2Bold.ttf') format("truetype");
+    font-display: swap;
+} 
